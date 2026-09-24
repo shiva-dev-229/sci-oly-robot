@@ -21,7 +21,7 @@
 
 ## The event
 
-Robot Tour (Science Olympiad) tasks one robot with autonomously driving a track, passing through each labelled **gate** in order, and coming to rest on a **target point**. The catch: scoring rewards *precision over speed*. Points are lost for missing the target time (in either direction — too fast is as bad as too slow) and for distance from the target point. The track layout is revealed only on competition day, and the team gets a short window (~10 minutes) to program the run before scoring.
+Robot Tour (Science Olympiad, 25-26) tasks one robot with autonomously driving a track, passing through each labelled **gate** in order, and coming to rest on a **target point**. The catch: scoring rewards *precision over speed*. Points are lost for missing the target time (in either direction — too fast is as bad as too slow) and for distance from the target point. The track layout is revealed only on competition day, and the team gets a short window (~10 minutes) to program the run before scoring.
 
 This makes the event a control-and-calibration problem, not a horsepower problem: the robot has to travel **known distances and turns very repeatably**, then have its segment timing tuned on the day to land on the requested time.
 
